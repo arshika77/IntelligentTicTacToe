@@ -1,0 +1,19 @@
+.square {
+    color: mistyrose;
+    background-color: black;
+    border: 5px solid mistyrose;
+    float: left;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 80px;
+}
+
+.square:focus {
+    outline: indigo;
+}

@@ -1,0 +1,6 @@
+.border-row:after {
+    clear: both;
+    content: "";
+    color: mistyrose;
+    display: table;
+}
